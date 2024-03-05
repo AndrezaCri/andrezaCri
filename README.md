@@ -1,7 +1,7 @@
-# Andreza Cristina - Desenvolvedora Web/Front-end 🌐
+### Desenvolvedora Web/Front-end 🌐
 
 
-Olá! Sou uma Desenvolvedora Web comprometida em criar projetos que combinam excelência técnica com princípios de usabilidade, acessibilidade, performance, SEO e compatibilidade cross-browser.Metodologias ágeis e uma visão centrada no usuário.
+Olá! Sou comprometida em criar projetos que combinam excelência técnica com princípios de usabilidade, acessibilidade, performance, SEO e compatibilidade cross-browser.Metodologias ágeis e uma visão centrada no usuário.
 
 # Conecte-se comigo!
 
