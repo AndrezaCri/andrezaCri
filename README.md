@@ -22,15 +22,6 @@ Olá! Sou comprometida em criar projetos que combinam excelência técnica com p
 # Git Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AndrezaCri&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
-# Minhas Contribuições 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AndrezaCri&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_theme=bear&text_color=FFF)](https://github.com/AndrezaCri/dio-lab-open-source)
-
-# Projestos
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AndrezaCri&repo=portfolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_theme=bear&text_color=FFF)](https://github.com/AndrezaCri/portfolio)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AndrezaCri&repo=loja-e-commerce&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_theme=bear&text_color=FFF)](https://github.com/AndrezaCri/loja-e-commerce)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AndrezaCri&repo=Praime-Filmes&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_theme=bear&text_color=FFF)](https://github.com/AndrezaCri/Praime-Filmes)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AndrezaCri&repo=portalmarvel&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_theme=bear&text_color=FFF)](https://github.com/AndrezaCri/portalmarvel)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AndrezaCri&repo=cart-raect-js&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_theme=bear&text_color=FFF)](https://github.com/AndrezaCri/cart-raect-js)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AndrezaCri&repo=Decodificador&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_theme=bear&text_color=FFF)](https://github.com/AndrezaCri/decodificador)
 
